@@ -12,4 +12,6 @@ The work at the weekend focused exclusively on the dental charting layer.
 This richer data representation will support the broader ambitions of OpenOdonto to deliver an open source solution of the scope identified in the model below.
 We have yet to fully explore the different options for a technical architecture to support these goals and these will be driven by understanding the different use cases for community dental services, based on their current and futures needs and technical capabilities. The client layer will be web based but there are many options for the structure of other architectural layers.
 
-a mind map/structural diagram is available at:
+## Proposed Architecture Diagram
+
+![Proposed Architecture Diagram](http://raw.github.com/orgs/openhealthhub/teeth/master/teeth_structural_diagram.png?raw=true "Proposed Architecture Diagram")

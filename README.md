@@ -14,4 +14,4 @@ We have yet to fully explore the different options for a technical architecture 
 
 ## Proposed Architecture Diagram
 
-![Proposed Architecture Diagram](http://raw.github.com/orgs/openhealthhub/teeth/master/teeth_structural_diagram.png "Proposed Architecture Diagram")
+![Proposed Architecture Diagram](https://github.com/open-health-hub/teeth/blob/master/teeth_structural_diagram.png "Proposed Architecture Diagram")
